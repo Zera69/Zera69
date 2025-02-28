@@ -10,6 +10,3 @@ I'm a passionate student with a keen interest in web development and game develo
 - 🤝 Open to collaborate on beginner-friendly projects
 - 🎯 Goal: To build a TCG game 
 
-
-
-⭐️ From [your-github-username](https://github.com/your-github-username)
