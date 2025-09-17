@@ -8,5 +8,5 @@ I'm a passionate student with a keen interest in web development and game develo
 
 - 🌱 I'm currently learning Java, Python, JavaScript and SQL
 - 🤝 Open to collaborate on beginner-friendly projects
-- 🎯 Goal: To build a TCG game 
+- 🎯 Goal: Become a senior game developer and work on a indie project 
 
